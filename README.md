@@ -16,7 +16,7 @@
 
 <div align="center">
     <p>   
-        Elevating my tech skills ✨ and on the hunt for opportunities to shine 🚀 in the world of IT.
+        #Elevating my tech skills ✨ and on the hunt for opportunities to shine 🚀 in the world of IT.
     </p>
 </div>
 
