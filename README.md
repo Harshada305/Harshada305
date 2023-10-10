@@ -5,24 +5,18 @@
 - 🌱 I'm constantly learning and experimenting with new technologies.
 - 🎯 My goal is to create meaningful and innovative software solutions.
 
+
+<h1 align="center">Hello World👋,I'm Harshada </h1>
+
 <p align="center">
   
    <img src="https://komarev.com/ghpvc/?username=Harshada305" alt="Profile Views" />
     </a>
 </p>
 
-<h1 align="center">Hello World👋,I'm Harshada </h1>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="Profile Views" />
-    <a href="https://stackoverflow.com/users/16260040/swapnil?tab=profile" target="_blank" >
-        <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=StackOverflowProfile&logo=stackoverflow" alt="Stack Overflow Profile Reach" />
-    </a>
-</p>
-
 <div align="center">
     <p>   
-        🌱 Polishing My Software Development Skills & Seeking New Opportunities to Shine
+        Elevating my tech skills ✨ and on the hunt for opportunities to shine 🚀 in the world of IT.
     </p>
 </div>
 
