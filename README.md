@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="Profile Views" />
+  
     <img src="https://komarev.com/ghpvc/?username=Harshada305" alt="Profile Views" />
     </a>
 </p>
